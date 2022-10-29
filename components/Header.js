@@ -28,6 +28,7 @@ function Header() {
         width={120}
         onClick={() => router.push("/")}
         className="cursor-pointer"
+        alt="Google"
       
       />
       <form className="flex flex-grow border border-gray-200 hover:shadow-lg shadow-lg max-w-2xl rounded-full px-6 py-3 ml-10 mr-5">
