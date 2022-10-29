@@ -1,3 +1,4 @@
+import Image from "next/image";
 function Avatar({url, className}) {
     return (
         <Image
