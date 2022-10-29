@@ -3,7 +3,7 @@ import Avatar from '../components/Avatar'
 import Image from "next/image";
 import { MicrophoneIcon, Squares2X2Icon } from "@heroicons/react/24/solid";
 import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 import { useRouter } from 'next/router';
 import { useRef } from 'react';
 
